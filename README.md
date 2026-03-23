@@ -8,7 +8,7 @@ The game asks for the 1st and 2nd position that you wish to reveal.
 Then it 'unmasks' them,giving you time to memorize which number they hid.
 The game ends either when you find all pairs or after 10 rounds.
 
-##PrisonerGame
+## PrisonerGame
 Start by running:
 > java PrisonerGame
 
